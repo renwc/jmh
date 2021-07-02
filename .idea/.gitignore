@@ -1,0 +1,20 @@
+# Default ignored files
+/workspace.xml
+/.name
+/compiler.xml
+/encodings.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/inspectionProfiles
+/libraries
+
+
+*.class
+target/
+*.iml
+.idea/
+logs/
+.amateras
+/target*
+*.log*%
